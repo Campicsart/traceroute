@@ -1,5 +1,5 @@
 import argparse
-from Packages.main import traceroute
+from packages.main import traceroute
 
 if _name_ == "_main_":
   parse = argparse.ArgumentParser()
