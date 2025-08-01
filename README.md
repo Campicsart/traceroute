@@ -11,7 +11,7 @@ https://www.catchpoint.com/network-admin-guide/how-to-read-a-traceroute
 
 ## _TESTED WITH ;_
 
-![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
+![WinVer](./screenshots/1.JPG) ![WinVer](./screenshots/2.JPG)
 
 -----------------------------------
 ###       W I N D O W S
@@ -39,7 +39,7 @@ Excute this program using WSL
 
 ## Background Information
 
-![WinVer](./Screenshots/bg.jpg)
+![WinVer](./screenshots/bg.jpg)
 
 TTL stands for Time To Live. When a TCP packet is sent, its TTL is set, which is the number   <br />
 of routers (hops) it can pass through before the packet is discarded. As the packet passes    <br />
@@ -86,18 +86,18 @@ Tracing the route to 34.0.0.4   <br/>
 
  - Domain name
 
-  ![Screenshots](./Screenshots/result1.jpg)
-  ![](./Screenshots/result1.gif)
+  ![screenshots](./screenshots/result1.jpg)
+  ![](./screenshots/result1.gif)
 
 
 - Ip Address
  
- ![Screenshots](./Screenshots/result2.jpg)
+ ![screenshots](./screenshots/result2.jpg)
  
 - root permission
  
- ![Screenshots](./Screenshots/err.jpg)
+ ![screenshots](./screenshots/err.jpg)
  
  - Help
  
- ![Screenshots](./Screenshots/help.jpg)
+ ![screenshots](./screenshots/help.jpg)
